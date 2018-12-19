@@ -6,6 +6,4 @@ This is a test upload from Raspberry Pi
 
 Here is an update to verify that the PAT is working
 
-## Another update
-
-Update to check credential storage
+**Another change**
